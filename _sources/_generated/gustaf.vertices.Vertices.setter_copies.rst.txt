@@ -1,0 +1,6 @@
+gustaf.vertices.Vertices.setter\_copies
+=======================================
+
+.. currentmodule:: gustaf.vertices
+
+.. autoproperty:: Vertices.setter_copies

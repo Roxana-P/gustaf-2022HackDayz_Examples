@@ -1,0 +1,6 @@
+gustaf.helpers.data.TrackedArray.mutable
+========================================
+
+.. currentmodule:: gustaf.helpers.data
+
+.. autoproperty:: TrackedArray.mutable

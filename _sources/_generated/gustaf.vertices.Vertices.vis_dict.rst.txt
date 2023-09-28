@@ -1,0 +1,6 @@
+gustaf.vertices.Vertices.vis\_dict
+==================================
+
+.. currentmodule:: gustaf.vertices
+
+.. autoproperty:: Vertices.vis_dict
